@@ -1,5 +1,8 @@
 # 🚀 Deploying a Node.js App with Nginx on AWS EC2
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ef948d5a-3e90-4f4d-8ca9-b35c1f043def" />
+
+
 This project shows how I deployed a Node.js app on an Amazon Linux 2023 EC2 instance, and used Nginx as a reverse proxy so the app is accessible on port 80 (HTTP).
 
 ## 🖥️ Steps I Followed
